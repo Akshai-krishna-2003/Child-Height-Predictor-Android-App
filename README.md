@@ -1,5 +1,7 @@
 # Child-Height-Predictor-Android-App
+
 ![App icon](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/8a8b19ba-fe00-44ef-89d7-fc915d8bfd1c)
+
 
 ## Description
 Child Height Predictor is an Android app that predicts the height of a child based on the height of the parents and the child's age and gender. It uses the Khamis-Roche Method to estimate the child's height.
@@ -46,8 +48,11 @@ This is my first app, and I am not licensing this product. The app is solely cre
 This project is not licensed and is intended for educational purposes only.
 
 ## Screenshots
-![Screenshot_20230806-171132_Child Height Predictor by Akshai](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/edaf1199-993b-433a-9f26-ddfebb5067b9)
-![Screenshot_20230806-171213_Child Height Predictor by Akshai](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/93e724a1-545f-43b7-a07e-1290205107ac)
-![Screenshot_20230806-171220_Child Height Predictor by Akshai](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/04555145-8c91-4be4-8930-be8b97ce917d)
+
+![Screenshot_20230806-171132_Child Height Predictor by Akshai](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/db35629d-cbe6-4462-b97b-5008db8656eb)
+
+![Screenshot_20230806-171213_Child Height Predictor by Akshai](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/03aa3549-56bc-4589-a7b0-b6304247c187)
+
+![Screenshot_20230806-171220_Child Height Predictor by Akshai](https://github.com/Akshai-krishna-2003/Child-Height-Predictor-Android-App/assets/93439677/4e976058-03cb-4d76-b747-3232361c2e0d)
 
 
