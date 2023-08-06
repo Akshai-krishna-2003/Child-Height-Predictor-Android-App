@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Child Height Predictor by Akshai</string>
+    <string name="childimage1">ChildImage1</string>
+    <string name="TextViewHeight">Child height</string>
+    <string name="FHeight">Father\'s height</string>
+    <string name="MHeight">Mother\'s height</string>
+
+    <string-array name="unit_Converter">
+        <item>Select unit</item>
+        <item>cm</item>
+        <item>feet</item>
+    </string-array>
+
+    <string-array name="Child_Age">
+        <item>Select age</item>
+        <item>2 years</item>
+        <item>2.5 years</item>
+        <item>3 years</item>
+        <item>3.5 years</item>
+        <item>4 years</item>
+        <item>4.5 years</item>
+        <item>5 years</item>
+        <item>5.5 years</item>
+        <item>6 years</item>
+        <item>6.5 years</item>
+        <item>7 years</item>
+        <item>7.5 years</item>
+        <item>8 years</item>
+        <item>9 years</item>
+        <item>9.5 years</item>
+        <item>10 years</item>
+        <item>10.5 years</item>
+        <item>11 years</item>
+        <item>11.5 years</item>
+        <item>12 years</item>
+        <item>12.5 years</item>
+        <item>13 years</item>
+        <item>13.5 years</item>
+        <item>14 years</item>
+        <item>14.5 years</item>
+        <item>15 years</item>
+        <item>15.5 years</item>
+        <item>16 years</item>
+        <item>16.5 years</item>
+        <item>17 years</item>
+        <item>17.5 years</item>
+
+    </string-array>
+
+    <string-array name="Child_Gender">
+    <item>Select gender</item>
+    <item>Male</item>
+    <item>Female</item>
+    </string-array>
+
+</resources>
